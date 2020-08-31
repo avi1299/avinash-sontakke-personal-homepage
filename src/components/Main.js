@@ -179,7 +179,7 @@ class Main extends React.Component {
          //       <span className="label">Blog(deprecated)</span>
          //     </a>
        //     </li>
-          </ul>
+         // </ul>
           {/* not visible in gatsby build */}
           {close}
           {/* <div style={closeStyle} onClick={() => this.props.onCloseArticle()}>
