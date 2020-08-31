@@ -2,26 +2,26 @@
 	"Title": "Avinash Sontakke | Personal Webpage",
 	"Name": "Avinash Sontakke",
 	"Description": [
-		"Pre-Final student at BITS Pilani. Passionate about all aspects of Physics and Computer Science.",
-		"I desire to learn how the world works. Who coded us in?"
+		"Pre-Final student at BITS Pilani. Passionate about all aspects of Physics and Computer Science. ",
+		"How does the world work? Who coded us in?"
 	],
 	"MainImage": "https://i.imgur.com/XIOrk25.jpg",
 	"BackgroundURL": "https://i.imgur.com/TQvqOJt.jpg",
 
 	"AboutImage": "https://i.imgur.com/5sOLND6.jpg",
 	"AboutContent": [
-		"I’m a physics enthusiant and a computer geek who is accomplished at posing weird questions and trying to develop programs to answer it.",
-		"You will find me mostly at the library trying either discovering an entire new field of study or explaining to my friends, the physical phenomena of everyday life",
-		"I am passionate about new computing technologies such as Optical computing and Quantum Computing and hope to get to work on it",
-		"When I'm not obsessed with figuring out the secrets of the world, I'm trying to help people solve their problems using code."
+		"I’m a computer geek who is obsessed with physics. Weird thoughts lead to weird questions whose answers lead to interesting code. ",
+		"You will find me mostly at the library trying either discovering an entire new field of study or explaining to my friends, the physical phenomena of everyday life ",
+		"I am passionate about new computing technologies such as Optical computing and Quantum Computing and their future potential. ",
+		"When I'm not obsessed with figuring out the secrets of the world, I'm trying to help people solve their problems using code. "
 	],
 
 	"WorkContent": [
-		"I am currently open to work in the field of Machine Learning and Deep Learning applications",
-		"Interdisciplinary Research in Physics and Computer Science is what excites me"
+		"I am currently open to work in the field of Machine Learning and Deep Learning applications. ",
+		"Interdisciplinary Research in Physics and Computer Science is what excites me. "
 	],
 	"WorkImage": "https://i.imgur.com/BHt1YKg.png",
-	"InternshipsStartLine": "Previously, I have interned with :",
+	"InternshipsStartLine": "I have previously interned with :",
 	"InternShips": [{
 			"name": "Inter-University center for Astronomy and Astrophysics(IUCAA), Pune, India",
 			"link": "https://drive.google.com/file/d/1UHdpp3xTgFfzcJlBS5VWz7zeWQD1Fzqn/view?usp=sharing"
