@@ -16,7 +16,7 @@
 		"When I'm not obsessed with figuring out the secrets of the world, I'm trying to help people solve their problems using code. ",
 		"Thank you for coming to my TEDx Talk. "
 	],
-
+	"WorkImage": "https://i.imgur.com/gpMd9h0.png",
 	"WorkContent": [
 		"I am currently open to work in the field of Machine Learning and Deep Learning applications. ",
 		"Interdisciplinary Research in Physics and Computer Science is what excites me. "
@@ -26,28 +26,15 @@
 			"name": "Inter-University center for Astronomy and Astrophysics(IUCAA), Pune, India",
 			"link": "https://drive.google.com/file/d/1UHdpp3xTgFfzcJlBS5VWz7zeWQD1Fzqn/view?usp=sharing"
 		},
-		{
-			"name": "KaHa PvT Ltd., Bangalore, India",
-			"link": "#"
-		}
+			"KaHa PvT Ltd., Bangalore, India"
+
 	],
 	"ProjectsStartLine": "Here are the projects I have worked on:",
-	"Projects": [{
-			"name": "Molecular Dynamic Simulation of RNA folding",
-			"link": "#"
-		},
-		{
-			"name": "Design & Implementation of Real Time Identity Detection and Surveillance System",
-			"link": "#"
-		},
-		{
-			"name": "Electro-Optic Switching & Dielectric Studies on Liquid Crystal",
-			"link": "#"
-		},
-		{
-			"name": "Ghost Imaging",
-			"link": "#"
-		},
+	"Projects": [
+		"Molecular Dynamic Simulation of RNA folding",
+		"Design & Implementation of Real Time Identity Detection and Surveillance System",
+		"Electro-Optic Switching & Dielectric Studies on Liquid Crystal",
+		"Ghost Imaging",
 		{
 			"name": "Timetable Creator",
 			"link": "https://github.com/avi1299/TimeTable_Creator"
