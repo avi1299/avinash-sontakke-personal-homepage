@@ -95,8 +95,8 @@ class Main extends React.Component {
             {JSONData.CVStartLine}
             <br/><br/>
             <div style={{"display":"flex", "justifyContent":"space-around"}}>
-              <a href={JSONData.CV} >CV </a>
-              <a href={JSONData.Resume} >Resume</a>
+              <a href={JSONData.CV} target="_blank">CV </a>
+              <a href={JSONData.Resume} target="_blank">Resume</a>
             </div>
           {/* </p> */}
           {/* not visible in gatsby build */}
@@ -140,20 +140,20 @@ class Main extends React.Component {
             <li>
               <a
                 href={JSONData.twitter}
-                className="icon fa-twitter"
+                className="icon fa-twitter" target="_blank"
               >
                 <span className="label">Twitter</span>
               </a>
             </li>
             <li>
-              <a href={JSONData.facebook} className="icon fa-facebook">
+              <a href={JSONData.facebook} className="icon fa-facebook" target="_blank">
                 <span className="label">Facebook</span>
               </a>
             </li>
             <li>
               <a
                 href={JSONData.github}
-                className="icon fa-github"
+                className="icon fa-github" target="_blank"
               >
                 <span className="label">GitHub</span>
               </a>
@@ -161,7 +161,7 @@ class Main extends React.Component {
             <li>
               <a
                 href={JSONData.linkedin}
-                className="icon fa-linkedin"
+                className="icon fa-linkedin" target="_blank"
               >
                 <span className="label">Linkedin</span>
               </a>
