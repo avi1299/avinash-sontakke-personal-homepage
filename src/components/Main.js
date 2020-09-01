@@ -36,7 +36,7 @@ class Main extends React.Component {
           </span>
           {/* <p> */}
           {JSONData.AboutContent.map((item) => {
-            return (<div><br/>{item}</div>)
+            return (<div><br/>{item}<br/>Thank you for coming to my <a href="https://www.youtube.com/watch?v=G71WBolYVwU" target="_blank">TEDx Talk</a></div>)
           })}
           {/* </p> */}
           {/* not visible in gatsby build */}
