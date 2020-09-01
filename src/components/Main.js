@@ -63,13 +63,13 @@ class Main extends React.Component {
             {JSONData.InternshipsStartLine}
             <ul>
               {JSONData.InternShips.map((item) => {
-              return (<li><a href={item.link}>{item.name}</a><br/></li>)
+              return (<li><a href={item.link} target="_blank">{item.name}</a><br/></li>)
             })}
             </ul>
             {JSONData.ProjectsStartLine}
             <ul>
               {JSONData.Projects.map((item) => {
-              return (<li><a href={item.link}>{item.name}</a><br/></li>)
+              return (<li><a href={item.link} target="_blank">{item.name}</a><br/></li>)
             })}
             </ul>
           
