@@ -38,6 +38,7 @@ class Main extends React.Component {
           {JSONData.AboutContent.map((item) => {
             return (<div><br/>{item}</div>)
           })}
+          {return("Thank you for coming to my "<a href="https://www.youtube.com/watch?v=G71WBolYVwU" target="_blank">"TEDx Talk :)"</a>)}
           {/* </p> */}
           {/* not visible in gatsby build */}
           {close}
