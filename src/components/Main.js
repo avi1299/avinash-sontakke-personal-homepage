@@ -72,7 +72,10 @@ class Main extends React.Component {
             {JSONData.ProjectsStartLine}
             <ul>
               {JSONData.Projects.map((item) => {
-              return (<li><a href={item.link} target="_blank">{item.name}</a><br/></li>)
+              if(item.link!="#"){
+              return (<li><a href={item.link} target="_blank">{item.name}</a><br/></li>)}
+              else {
+               return (<li>{item.name}<br/></li>)}
             })}
             </ul>
           
